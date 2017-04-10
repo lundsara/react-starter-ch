@@ -1,4 +1,4 @@
-# React Calculator (Reactalator)!
+# React Calculator!
 
 ![](http://i.giphy.com/iPw3q8epQcMgw.gif)
 
