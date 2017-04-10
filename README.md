@@ -1,6 +1,6 @@
 # React Calculator!
 
-![](http://i.giphy.com/iPw3q8epQcMgw.gif)
+![](https://i.giphy.com/iPw3q8epQcMgw.gif)
 
 ### Setup
 * run `npm install` in this directory to get all of the dependencies. 
