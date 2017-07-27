@@ -9,7 +9,7 @@
 ### Assignment
 In this directory is a basic React calculator. The UI is built out, but the calculator isn't functional...yet.
 
-Completion will be parts 1-3 and includes getting basic functionality out of this calculator. 
+Completion will be parts 1-3 and includes getting basic functionality out of this calculator.
 
 ### Tips for Getting Started
 * Consider how and where state should be managed for this app. 
@@ -38,8 +38,12 @@ Completion will be parts 1-3 and includes getting basic functionality out of thi
 * Finally, after the calculation is completed have the answer displayed correctly on the page. 
 
 
-# BONUS
+## BONUS
 1. Write a function to handle clicking the '+/-' button 
 2. Write a funciton to handle the '%' button. Ex: 10 % -> 0.10, 22 % -> 0.22
 2. Write a function that will show the calculators recent history when you double click on the display component
 3. Add animations to the display when changes occur
+
+## Submission
+
+Homework is due by **11:00 Tonight!** Remember to work with each other and go to TAs when you need it, but follow the [guidelines](https://git.generalassemb.ly/wdi-nyc-5-22/course-information/blob/master/how-to-queue-with-TAs.md) for queuing. Follow the normal [rules for homework submission](https://git.generalassemb.ly/wdi-nyc-5-22/course-information/blob/master/homework-policy.md), remember to include a link to your **repo**.
