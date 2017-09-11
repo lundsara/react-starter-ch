@@ -6,6 +6,7 @@ const Tile = (props) => {
     <div
       style={{width: double}}
       className='tile'
+      onClick={props.handleOnClick}
     >
       <h5>
         { props.symbol }
